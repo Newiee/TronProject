@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Environments
+.venv/
+env/
+venv/
+
+# Docker
+*.pid
+
+# Others
+.DS_Store
+.idea/
+.vscode/
